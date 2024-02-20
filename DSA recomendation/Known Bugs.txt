@@ -1,0 +1,10 @@
+1)
+When a user likes a post it will be saved and the like button turns to unlike 
+which when clicked will decrease the like count and then turn back to like
+but if it is reloaded then the post can be liked again making it possible for one user to be able to like same post multiple times
+
+2)
+tailored posts will be shown to a user as per their likings 
+and this likings will be updated but
+until and unless some new post does not reach to certain popularity
+user will be seeing the same post
